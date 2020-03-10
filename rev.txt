@@ -1,7 +1,9 @@
 THIS IS OLD r5_append LINE
 r5_r2_branch inserting a cat amonst the pigeons
 ADDING LINE 3
+Git add without staging test
 r5_r2_branch being disruptive
 r5_ADDING WHAT IS NEW LINE 3
 r5_r2_branch stop already!
 ANOTHER LINE
+
