@@ -7,4 +7,5 @@ r5_r2_branch being disruptive
 r5_ADDING WHAT IS NEW LINE 3
 r5_r2_branch stop already!
 ANOTHER LINE
+Triggering Kanban autofix for https://github.com/kevleyski/git_diff/issues/5
 
